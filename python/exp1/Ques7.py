@@ -1,0 +1,5 @@
+s1=int(input("enter mark of subject1"))
+s2=int(input("enter mark of subject 2"))
+s3=int(input('enter mark of subject 3'))
+print("sum",s1+s2+s3)
+print("percentage",((s1+s2+s3)/300)*100)

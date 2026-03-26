@@ -1,0 +1,11 @@
+num=int(input("enter a number"))
+str=input("enter a string")
+num1=float(input("enter a decimal no"))
+n2=complex(input("enter a complex"))
+bool=input("enter true or false")
+bool1=bool.capitalize()=="True"
+print(type(num))
+print(type(str))
+print(type(num1))
+print(type(n2))
+print(type(bool1))
